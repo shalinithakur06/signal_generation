@@ -1,0 +1,1 @@
+bsub -R "pool>30000" -q 1nw -J job1 < lxplusbatchscript.csh
